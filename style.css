@@ -1,0 +1,51 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+
+header .navbar {
+	background-color: #fff;
+	border: none;
+	margin-right: 3%;
+}
+
+
+#bg {
+	width: 90%;
+	height: 600px;
+	margin: 5%;
+}
+
+.navbar-inner img{
+	width: 60%;
+	margin-left: 20px;
+}
+
+ul {
+	padding: 2%;
+}
+
+nav li {
+	display: inline-block;
+	font-size: 18px;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+header .fa{
+	width: 25px;
+	height: 25px;
+	margin-right: 10px;
+	text-align: center;
+	line-height: 25px;
+	font-size: 100%;
+	letter-spacing: 0;
+}
+
+nav a {
+	color: black;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	letter-spacing: 4px;
+}
