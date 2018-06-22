@@ -3,19 +3,62 @@ html {
   padding: 0;
 }
 
-
 header .navbar {
 	background-color: #fff;
 	border: none;
 	margin-right: 3%;
 }
 
-
 #bg {
-	width: 90%;
-	height: 600px;
-	margin: 5%;
+	width: 80%;
+	height: 550px;
+	margin: 10%;
+	margin-top: 5%;
+	margin-bottom: 8%;
 }
+
+
+section{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+.fortune {
+	display: flex;
+	float: left;
+}
+
+.about h4{
+	margin-left: 4%;
+	font-family: 'Poor Story', cursive;
+}
+
+.about p{
+	margin-left: 7%;
+	margin-top: 5%;
+	font-size: 20px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+
+
+section h1{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#today{
+	margin-left: 5.7%;
+}
+
+#cookie {
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+
 
 .navbar-inner img{
 	width: 60%;
