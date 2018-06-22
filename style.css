@@ -33,6 +33,7 @@ section{
 .about h4{
 	margin-left: 4%;
 	font-family: 'Poor Story', cursive;
+	cursor: pointer;
 }
 
 .about p{
